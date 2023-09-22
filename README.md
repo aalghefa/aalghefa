@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 Hello, my name is Abdalrahman Alghefari from Saudi Arabia and I am an aspiring Software Engineer. I am still learning and considered an intermediate programmer but I am continuing to strive towards being professional in that line of work. Currently a Software Engineering second year student at the University of Western Ontario.
 
